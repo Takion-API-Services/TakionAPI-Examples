@@ -5,7 +5,7 @@ We also offer custom modules and solutions for any kind of situation.
 
 ![TakionAPI Banner](https://takionapi.tech/banner)
 
-[Discord](https://takionapi.tech/discord) | [Twitter](https://takionapi.tech/twitter) | [GitHub](https://takionapi.tech/github) | [Blog](https://blog.takionapi.tech) | [Docs](https://docs.takionapi.tech) | [Mail](mailto:takionapi@protonmail.com) | [Buy a Plan](https://takionapi.tech/buy) 
+[Discord](https://takionapi.tech/discord) | [Twitter](https://takionapi.tech/twitter) | [GitHub](https://takionapi.tech/github) | [Blog](https://blog.takionapi.tech) | [Docs](https://docs.takionapi.tech) | [Mail](mailto:takionapi@proton.me) | [Buy a Plan](https://takionapi.tech/buy) 
 
 ## Table of Contents
 - [Takion API - Bypass Service](#takion-api---bypass-service)
@@ -118,5 +118,5 @@ Need APIs for other antibots or captchas? [Contact us](https://takionapi.tech/di
 - [Blog](https://blog.takionapi.tech)
 - [Docs](https://docs.takionapi.tech)
 - [Buy a Plan](https://takionapi.tech/buy) 
-- [Mail](mailto:takionapi@protonmail.com)
+- [Mail](mailto:takionapi@proton.me)
 - [Free Trial Key](https://takionapi.tech/discord)
