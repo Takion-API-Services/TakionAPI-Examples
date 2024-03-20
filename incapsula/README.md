@@ -63,5 +63,6 @@ Here are some examples of how to use our API to generate the necessary cookies a
  - [reese84 generation](./reese84.py)
  - [___utmvc generation](./___utmvc.py)
  - [WAF](./waf.py) (we solve GeeTest with our APIs)
+ - [Ticketmaster SG Login](./ticketmaster_sg_login.py) Provided an example login flow for Ticketmaster SG with reese84 solving and the new implemented AWS Cognito
 
 Get also a [free API key](https://takionapi.tech/discord) to start using our API.
